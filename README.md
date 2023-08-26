@@ -24,11 +24,11 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/EmperorRP/ezpay">
+  <a href="https://github.com/EmperorRP/payez">
     <img src="https://i.imgur.com/2CeFEJI.png" alt="Logo" width="120">
   </a>
 
-  <h3 align="center">Ezpay</h3>
+  <h3 align="center">payez</h3>
 
   <p align="center">
     An easy and efficient way to distribute Ethereum payments.
@@ -64,16 +64,16 @@
 
 ## About The Project
 
-In the modern digital era, efficient financial management is paramount. Whether you're managing payments for a large team, distributing funds for a collaborative project, or simply splitting bills, **Ezpay** is here to streamline the process. Built on the Ethereum network, this tool uses smart contracts to facilitate seamless distribution of payments to multiple recipients. The integration of ENS names ensures enhanced security and ease of use.
+In the modern digital era, efficient financial management is paramount. Whether you're managing payments for a large team, distributing funds for a collaborative project, or simply splitting bills, **payez** is here to streamline the process. Built on the Ethereum network, this tool uses smart contracts to facilitate seamless distribution of payments to multiple recipients. The integration of ENS names ensures enhanced security and ease of use.
 
 **Potential Use Cases:**
-- **Payment Splitter App**: No need for complex calculations or manual transfers; input amounts and let Ezpay handle the distribution.
+- **Payment Splitter App**: No need for complex calculations or manual transfers; input amounts and let payez handle the distribution.
 - **Payroll Distribution**: Manage salaries for teams large or small with a few clicks.
 - **Freelance Pay Management**: Handle payments for multi-contributor projects effortlessly.
 - **Hackathon Payment Distribution**: Allocate prizes or funding without the hassle.
 - **Deployment to Mainnet**: In the future, expect broader network support for expanded versatility.
 
-Strong business and technical value, combined with the project's innovative edge, sets Ezpay apart in the competitive landscape.
+Strong business and technical value, combined with the project's innovative edge, sets payez apart in the competitive landscape.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,12 +110,12 @@ node -v
 
 1. **Clone the repo**:
    ```sh
-   git clone https://github.com/EmperorRP/ezpay.git
+   git clone https://github.com/EmperorRP/payez.git
    ```
 
 2. **Navigate into the project directory**:
    ```sh
-   cd ezpay
+   cd payez
    ```
 3. **Install project dependencies**:
    ```sh
@@ -150,8 +150,8 @@ Sai Leela Rahul Pujari - [@therahulpujari](https://twitter.com/therahulpujari) [
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/EmperorRP/ezpay
-[contributors-url]: https://github.com/EmperorRP/ezpay/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/EmperorRP/payez
+[contributors-url]: https://github.com/EmperorRP/payez/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
