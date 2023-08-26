@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/EmperorRP/payez">
-    <img src="https://i.imgur.com/2CeFEJI.png" alt="Logo" width="120">
+    <img src="https://i.imgur.com/AXIM23U.png" alt="Logo" width="240">
   </a>
 
   <h3 align="center">payez</h3>
@@ -61,6 +61,9 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+![ss](https://github.com/EmperorRP/payez/assets/66853318/123e705e-d49e-46d2-9888-fdf8a6528f59)
+
 
 ## About The Project
 
