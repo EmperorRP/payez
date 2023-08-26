@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/EmperorRP/ezpay">
-    <img src="https://i.imgur.com/PT9QyxJ.png" alt="Logo" width="120">
+    <img src="https://i.imgur.com/2CeFEJI.png" alt="Logo" width="120">
   </a>
 
   <h3 align="center">Ezpay</h3>
